@@ -1,4 +1,4 @@
-# 🚀 AI Studio App
+# 🚀 IdeaSpark App
 
 Welcome! This repository contains everything you need to run and deploy your AI Studio app locally.
 
