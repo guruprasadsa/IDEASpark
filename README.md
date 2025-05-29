@@ -32,33 +32,9 @@ Welcome! This repository contains everything you need to run and deploy your AI 
 
 ---
 
-## 📦 Deployment
+## 🌐 Demo
 
-### Deploying to GitHub Pages
-
-1. **Install the GitHub Pages package** (already installed):
-   ```powershell
-   npm install --save gh-pages
-   ```
-
-2. **Update `package.json`**
-   - Add a `homepage` field:
-     ```json
-     "homepage": "https://your-username.github.io/your-repo"
-     ```
-   - Add deploy scripts:
-     ```json
-     "predeploy": "npm run build",
-     "deploy": "gh-pages -d dist"
-     ```
-
-3. **Build and deploy**
-   ```powershell
-   npm run deploy
-   ```
-
-4. **Visit your site**
-   Go to `https://your-username.github.io/your-repo` in your browser.
+Check out the live app here: [DEMO](https://guruprasadsa8.github.io/IDEASpark)
 
 ---
 
