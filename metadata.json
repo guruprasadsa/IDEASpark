@@ -1,0 +1,5 @@
+{
+  "name": "Evolving Ideas Chat",
+  "description": "An interactive chat application to help students discover new and evolving topics to learn, powered by Gemini. Customize your search with learning preferences.",
+  "requestFramePermissions": []
+}
